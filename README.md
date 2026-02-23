@@ -1,4 +1,4 @@
-# OOP Assignment 2  - Banking App (J. POO Morgan Chase & Co.)
+# OOP Assignment 2  - Banking App (J. OOP Morgan Chase & Co.)
 
 <div align="center"><img src="https://tenor.com/view/piggy-bank-change-coin-bouncing-gif-11514793.gif" width="500px"></div>
 
